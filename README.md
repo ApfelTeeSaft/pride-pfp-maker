@@ -5,8 +5,7 @@ Customize your PFPs with pride flags!<br>
 [A straightforward tool to easily customize images into pride pfps](https://nectarboy.github.io/pride-pfp-maker/)
 
 ## A Short Note
-This was supposed to be a project for june 2021,
-but it was published like 2 months late ^-^;; who knows, it might get used this year
+This was originally developed by Nectarboy, I am extending support for more flags and more features <3
 
 ## How To Use
 This tool was made to be very easy and fast to use;
