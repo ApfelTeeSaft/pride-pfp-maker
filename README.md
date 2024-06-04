@@ -2,7 +2,7 @@
 <h1 align='center'>Pride PFP Maker</h1>
 
 Customize your PFPs with pride flags!<br>
-[A straightforward tool to easily customize images into pride pfps](https://apfelteesaft.com/pridepfp)
+[A straightforward tool to easily customize images into pride pfps](https://nectarboy.github.io/pride-pfp-maker/)
 
 ## A Short Note
 This was supposed to be a project for june 2021,
@@ -29,8 +29,6 @@ It even supports uploading custom images for any pride flags not included :D
 ```
 - change pride flag design
 - upload custom flag design
-- linux startup script
-- website now runs on flask
 
 - slider for image zoom
 - slider for flag ring size
@@ -59,4 +57,3 @@ I hope the Custom Flag option makes up for it enough, though if you want to sugg
 
 Have fun :)
 >nectarboy - 2022
->apfelteesaft - 2024
