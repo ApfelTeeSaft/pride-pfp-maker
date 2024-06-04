@@ -29,6 +29,8 @@ It even supports uploading custom images for any pride flags not included :D
 ```
 - change pride flag design
 - upload custom flag design
+- linux startup script
+- website now runs on flask
 
 - slider for image zoom
 - slider for flag ring size
@@ -57,3 +59,4 @@ I hope the Custom Flag option makes up for it enough, though if you want to sugg
 
 Have fun :)
 >nectarboy - 2022
+>apfelteesaft - 2024
