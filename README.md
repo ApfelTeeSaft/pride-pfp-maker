@@ -2,7 +2,7 @@
 <h1 align='center'>Pride PFP Maker</h1>
 
 Customize your PFPs with pride flags!<br>
-[A straightforward tool to easily customize images into pride pfps](https://nectarboy.github.io/pride-pfp-maker/)
+[A straightforward tool to easily customize images into pride pfps](https://apfelteesaft.com/pridepfp)
 
 ## A Short Note
 This was originally developed by Nectarboy, I am extending support for more flags and more features <3
@@ -56,3 +56,4 @@ I hope the Custom Flag option makes up for it enough, though if you want to sugg
 
 Have fun :)
 >nectarboy - 2022
+>apfelteesaft - 2024
