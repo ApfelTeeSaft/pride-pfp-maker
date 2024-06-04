@@ -35,4 +35,8 @@ const presetFlags = [
         name: 'Non-Binary',
         obj: new FlagObject(['#fafa23', '#ffffff', '#a22ac9', '#000000'])
     },
+    {
+        name: 'Spezisexual',
+        obj: new FlagObject(['#f9b700', '#ec6400', '#e6001c', '#e30083', '#4b1e7d'])
+    },
 ];
